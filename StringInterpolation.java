@@ -1,10 +1,10 @@
 public class StringInterpolation {
     public static void main(String args[])
     {
-        String studentName="Poovendhan";
-        int studentAge=23;
+        String studentName="Priya";
+        int studentAge=19;
         String studentDept="ECE";
-        String studentNative="Erode";
+        String studentNative="Pollachi";
         //Before StringInterpolation
         System.out.println("Student Details Before StringInterpolation\nName of the Student:"+studentName+"\nAge of the Student:"+studentAge+"\nDepartment of the Student:"+studentDept+"\nNative of the Student:"+studentNative);
         //After StringInterpolation
